@@ -43,7 +43,7 @@ I then tried to find some common mistakes made by administrators during the test
 ### 4) Post-Exploitation
 I then checked the directory I was dropped into using `pwd` (print working directory).
 
-![PWD Command](Screenshot%202026-06-21%200749581.png)
+![PWD Command](Screenshot%202026-06-21%20074958.png)
 
 I was dropped into `/root`. Next, I used `ls` to get a list of all the files. There, I found only one file named **flag.txt**. This was my target; I used `cat <file_name>` to read its content.
 
