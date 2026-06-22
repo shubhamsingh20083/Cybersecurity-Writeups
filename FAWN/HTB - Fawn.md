@@ -1,5 +1,6 @@
 
 **Goal** - Exploiting FTP oversight and retrieving the flag
+
 **Tool** **Used** - Official guide, my knowledge and AI
 
 ---
