@@ -1,4 +1,5 @@
 **Goal** - Capture the Flag/exploit misconfigured SMB share
+
 **Tool** **Used** - Official guide, my knowledge and AI *(nmap, ping, smbclient)*
 
 ---
