@@ -52,10 +52,10 @@ Using *smbclient* I got inside the `WorkShares` share using `anonymous` login, n
 I then used the command `ls` to get the list of files followed by moving into directory using `cd` and downloading the .txt files using `get`.
 
 ![List Files](Screenshot%202026-06-25%20100103.png)
-![Change Directory](Screenshot%202026-06-25%20100120%202.png)
-![List User Files](Screenshot%202026-06-25%20100130%201.png)
-![Download File](Screenshot%202026-06-25%20100147%201.png)
-![Flag File Details](Screenshot%202026-06-25%20100237%201.png)
+![Change Directory](Screenshot%202026-06-25%20100120.png)
+![List User Files](Screenshot%202026-06-25%20100130.png)
+![Download File](Screenshot%202026-06-25%20100147.png)
+![Flag File Details](Screenshot%202026-06-25%20100237.png)
 
 
 Here the file named *flag.txt* was required.
