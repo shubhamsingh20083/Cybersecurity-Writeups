@@ -13,3 +13,5 @@ HBT profile - https://app.hackthebox.com/public/users/3641418
 | **Fawn**       | Linux   | FTP (Port 21)             | Access control failure; anonymous login permitted on file server.                                       | [Read Report](FAWN/HTB-Fawn.md)       |
 | **Dancing**    | Windows | SMB (Port 445)            | Process failure; improper permissions set on internal corporate shares.                                 | [Read Report](Dancing/HTB-Dancing.md) |
 | **Redeemer**   | Linux   | Redis (Port 6379)         | Architectural oversight; in-memory database exposed to the network without authentication requirements. |                                       |
+
+---
